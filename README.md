@@ -4,12 +4,12 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM) veut identi
 
 Projet effectué dans le cadre de ma formation chez OpenClassrooms
 
-Réaliser une analyse prédictive
+- Réaliser une analyse prédictive
 
-Réaliser une régression logistique
+- Réaliser une régression logistique
 
-Réaliser une régression linéaire
+- Réaliser une régression linéaire
 
-Opérer des classifications automatiques pour partitionner les données
+- Opérer des classifications automatiques pour partitionner les données
 
-Visualisation des données.
+- Visualisation des données.
